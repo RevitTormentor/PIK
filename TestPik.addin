@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>TestPik.dll</Assembly>
+    <ClientId>a3ede8e2-477f-4ea6-b0b5-3ffd41963c9b</ClientId>
+    <FullClassName>TestPik.CMDColorRooms</FullClassName>
+    <Text>Color Rooms</Text>
+    <Description>Раскрашивание однотипных квартир</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>Kulikov</VendorId>
+    <VendorDescription>NoName</VendorDescription>
+  </AddIn>
+</RevitAddIns>

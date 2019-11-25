@@ -1,0 +1,5 @@
+E:\ProgrammingsVS\VisualStudio2017\Projects\Revit\TestPik\TestPik\obj\Debug\TestPik.csproj.CoreCompileInputs.cache
+E:\ProgrammingsVS\VisualStudio2017\Projects\Revit\TestPik\TestPik\bin\Debug\TestPik.dll
+E:\ProgrammingsVS\VisualStudio2017\Projects\Revit\TestPik\TestPik\bin\Debug\TestPik.pdb
+E:\ProgrammingsVS\VisualStudio2017\Projects\Revit\TestPik\TestPik\obj\Debug\TestPik.dll
+E:\ProgrammingsVS\VisualStudio2017\Projects\Revit\TestPik\TestPik\obj\Debug\TestPik.pdb
